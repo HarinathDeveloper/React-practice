@@ -30,22 +30,22 @@
 
 # parcel
 
-- Dev Build
-- local server
-- HMR - Hot Module Replacement (file watching algorithm written in c++)
-- faster Build (caching .parcel-cache)
+# Dev Build
+# local server
+# HMR - Hot Module Replacement (file watching algorithm written in c++)
+# faster Build (caching .parcel-cache)
    # we can regenerate the .parcel-cache and dist by rebuilding the app using the npx parcel index.html
-- image minimization
-- minification ( remove comments and extra spaces)
-- compress
-- Differential Building - support older Browser
-- HTTPS build (parcel index.html --https)
-- Diagnostic (error Handling)
-- Tree Shaking (remove unused code)
-- dev build npx parcel index.html and production build npx parcel build index.html (when we are doing the production build we need to remove the main in the package.json)minified files stored in the dist
+# image minimization
+# minification ( remove comments and extra spaces)
+# compress
+# Differential Building - support older Browser
+# HTTPS build (parcel index.html --https)
+# Diagnostic (error Handling)
+# Tree Shaking (remove unused code)
+# dev build npx parcel index.html and production build npx parcel build index.html (when we are doing the production build we need to remove the main in the package.json)minified files stored in the dist
 
 
 # Browser List
-- it will used to run our app in the browser
-- "last 2 chrome version",
-- "last 2 firefox version"
+# it will used to run our app in the browser
+# "last 2 chrome version",
+# "last 2 firefox version"
