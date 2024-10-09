@@ -1,4 +1,5 @@
-
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 // React.createElement() is used to create the react element which is an object
 // render() method which converts the react element or object into the html element and render it in browser
