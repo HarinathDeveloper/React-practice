@@ -49,6 +49,7 @@
 # it will used to run our app in the browser
 # "last 2 chrome version",
 # "last 2 firefox version"
+<<<<<<< HEAD
 
 # https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
 
@@ -60,3 +61,5 @@
 # the jsx code converted into react element before going to javascript.
 # babel takes jsx convert the code into javascript engine understanding language.(babel javascript compiler)
 # Component Composition calling the another component in other component
+=======
+>>>>>>> c31d13e721688ee0bf89a108e54c5b8398d1fb75
