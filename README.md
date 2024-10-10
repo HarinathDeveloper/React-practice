@@ -49,3 +49,14 @@
 # it will used to run our app in the browser
 # "last 2 chrome version",
 # "last 2 firefox version"
+
+# https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
+
+# episode 3
+
+# npm start equal to npm run start
+# npm run build
+
+# the jsx code converted into react element before going to javascript.
+# babel takes jsx convert the code into javascript engine understanding language.(babel javascript compiler)
+# Component Composition calling the another component in other component
